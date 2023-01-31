@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'MyFirstASPNETApp' " />
   <ItemGroup>
     <Content Remove="wwwroot\" />
     <Content Remove="wwwroot\index.html" />

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.25
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstASPNETApp", "MyFirstASPNETApp\MyFirstASPNETApp.csproj", "{CF615CF2-CA9C-46F7-AFE2-89D0C3AF70D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mission4App", "MyFirstASPNETApp\Mission4App.csproj", "{CF615CF2-CA9C-46F7-AFE2-89D0C3AF70D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
